@@ -36,7 +36,7 @@
     </StyleMap>
     <Placemark>
       <name>DEU.1.1.2.1_1</name>
-      <description><![CDATA[description: DEU<br>Name: tes2<br>Desc: 2<br>Employee: asdf<br>Revenue: asdf<br>porduct: asdf]]></description>
+      <!-- <description><![CDATA[description: MAN<br>Name: tes2<br>Desc: 2<br>Employee: asdf<br>Revenue: 12345332<br>porduct: asdf]]></description> -->
       <styleUrl>#poly-1A237E-9000-235</styleUrl>
       <ExtendedData>
         <Data name="description">
